@@ -102,6 +102,6 @@ plt.show()
 ![270233196-f1252cf7-ae0c-4ca0-a699-c7c1a272ca2e](https://github.com/AavulaTharun/rnn-stock-price-prediction/assets/93427201/e6503752-a68d-43ee-964c-c7614ad1245b)
 
 ## RESULT:
-Thus, we have successfully created a Simple RNN model for Stock Price Prediction.
+Thus, we have successfully created a Simple RNN model for Stock Price Prediction
 
 
